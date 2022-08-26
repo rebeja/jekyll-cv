@@ -1,7 +1,7 @@
 {% assign volunteering = site.data.data.volunteering %}
 {% if volunteering %}
 <section class="volunteering">
-    <h2 class="title">Volunteering</h2>
+    <h2 class="title">Professional Service</h2>
     {% for vol in volunteering %}
         <div class="volunteering-item">
             <div class="role">
@@ -11,7 +11,7 @@
                 {{vol.company}}
                 <span class="time">{{vol.time}}</span>
             </div>
-            <div class="details">{{vol.details}}</div>    
+            <div class="details">{{vol.details | markdownify}}</div>    
         </div>
         
     {% endfor %}

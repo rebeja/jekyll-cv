@@ -1,77 +1,138 @@
-name: John Doe
-support_dark_mode: true
-fork: true
+name: Rebecca Robinson Chávez
+
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: gmail
+  github: rebeja
+  linkedin: rrobinsonchavez
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: English 
+  - idiom: Spanish (proficient)
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Phd (ABD) in Communication
+    time: 2010-2016
+    university: University of Iowa
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: MA in Communication 
+    time: 2010-2012
+    university: University of Iowa
+  
+  - degree: BA in Communication Studies
+    time: 2007-2010
+    university: St. Edward's University
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
   - category: Frontend
     skill:
-      - React
-      - Typescript
+      - HTML, CSS, JS
+      - Markdown
+  - category: Backend
+    skill: 
+      - NodeJS
+      - Ruby
+  - category: Data
+    skill:
+      - GraphQL
+      - PostgreSQL
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
+      - Jenkins
+      - GitLab CI 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Highly engaging technical writer, API documentation specialist, educator, and problem solver. Curious, creative, and passionate about technology. Areas of expertise include developer outreach, technical writing and editing, presentation coaching, and product development. 
 
 # Experience
-experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+experience: 
+  - role: API Technical Writer II 
+    time: 2021-Present
+    company: Indeed
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+      Worked on a team that migrated all of Indeed’s public API documentation to a custom built NodeJS web app. I now manage, edit, and publish all external API technical documentation on Indeed's [Developer Portal](https://developer.indeed.com/). *Responsibilities include*: Leading API documentation sprint planning with cross functional team; Partnering with product teams to assess documentation needs and deliver technical content solutions; Collaborating with a wide range of stakeholders to make recommendations and provide strategic direction on technical content projects; Identifying and proposing solutions for major improvements to existing or missing processes. 
+  - role: Outreach Technical Writer
+    time: 2019-2021
+    company: Indeed
+    details: |
+      Began my technical writing career with a focus on developer relations and presentation coaching. Responsibilities included: Managing intake process for conference support requests; Working 1:1 with presenters developing external content; Providing on-site support for high-priority conferences; Reviewing external facing slide decks; Traveling to conferences and providing in-person speaker support; Creating and maintaining customized templates for speaker use; Providing consultation services to teams organizing internal events.
+  - role: Adjunct Professor
+    time: 2015-2018
+    company: St. Edward's University
+    details: |
+      Fostered student commitment to lifelong learning by connecting course material to broader situations and current events in courses; Courses taught: Introduction to Communication, Communication Theory, Native American and Chicano Film, and Presentational Speaking.
+  - role: Graduate Teaching Assistant
+    time: 2011-2014
+    company: University of Iowa
+    details: |
+      Responsible for instructing students on academic research methods and standards of academic writing. Courses taught were Theory and Practice of Argument, Studying Communication Methods, Media, Music, and Culture, and Media and Mass Communication.
+  - role: Freelance Writer
+    time: 2013-2014
+    company:  Little Village Magazine
+    details: |
+      Wrote for "On the beat" a featured biweekly article covering local music events.
+
+volunteering:
+  - role: Conference Presentations
+    details: |
+      * Western States Communication Association Annual Convention (Santa Clara CA, February 2018) 
+      * Gender & Citizenship Conference (Texas Tech University, February 2016) 
+      * National Communication Association 100th Annual Convention (Chicago Il, November 2014) 
+      * Rhetoric Society Of America Biennial Conference (San Antonio TX, May 2014) 
+      * National Communication Association 98th Annual Convention (Orlando FL, November 2012) 
+      * Flow (University Of Texas At Austin, November 2012) 
+      * Rhetoric Society Of America Biennial Conference (Philadelphia PA, May 2012) 
+      * En Obra: Performative Approaches To World Languages, Literatures And Cultures (Iowa City IA, 2012)
+      * National Communication Association 96th Annual Convention (San Francisco CA, November 2010) Source
+      * Undergraduate Research Symposium (St. Edward’s University, Austin TX, May 2010) 
+      * The National Association For Chicana And Chicano Studies (UT Austin, February 2010) 
+      * National Communication Association 95th Annual Convention (Chicago IL, November 2009) 
+
+  - role: Community Outreach
+    details: |
+      * Spring Boot Guild at Indeed  (2022 - Present)
+      * Technical Communication Workshop Lead for Tectonica cohort (2021) 
+      * Graph QL Guild at Indeed (2021 - 2022)
+      * O’Reilly Open Source Conference Volunteer (2019)
+      * Ignite Workshop Lead for Tectonica cohort (2019)
+      * Panelist for the Center of Teaching Excellence (Fall 2018)
+      * Volunteer Speech and Debate Judge (2016 - 2018)
+      * Alamo Drafthouse, Special Event Host (2015) 
+      * Student Broadcasters Incorporated (Fall 2012- Spring 2014) 
+      * Graduate Student Mentor (Fall 2012- Spring 2014)
+      * Graduate Student Affairs Committee (Summer 2012 - Summer 2013)
+      * Girls Rock! Iowa City, Workshop Leader (Summer 2013)
+      * KRUI, DJ (2012 – 2014)
+      * SXSW, Press & Publicity Convention Volunteer (2010)
+      * National Communication Association Convention Volunteer (2009, 2012)
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Awards and Honors
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      * Donald C. Bryant Paper Award For Outstanding Graduate Scholarship (University Of Iowa, Fall 2012)  
+      * Dean’s Fellowship (University Of Iowa, March 2010) 
+      * Outstanding Communication Student Award (St. Edward’s University, May 2010)  
+      * Kappa Gamma Pi (Catholic College Graduate Honor Society, March 2010) 
+      * Alpha Chi (Top Ten Percent Of Junior And Senior Class, October 2009) 
+      * Lambda Pi Eta (National Communication Association Honor Society, April 2009) 
+      * Dean’s List (St. Edward’s University Fall 2007-2009) 
+      * Dean’s Scholarship (St. Edward’s University 2008 And 2009)  
+      * Timmins Scholarship (St. Edward’s University 2008, 2009) 
+
+  - role: Workshops 
+    details: |
+      * Faculty Reading And Discussion Group (St. Edward’s University, Austin TX, Fall 2015-Fall 2018) 
+      * Innovation Institute Summer Seminar Workshops (St. Edward’s University, Austin, TX, May 2016) 
+      * Rhetoric Society Of America Summer Institute (University Of Wisconsin, Madison WI, June 2015) 
+      * Rhetoric Society Of America Summer Institute University Of Kansas, Lawrence KS, June 2013) 
+      * Midwest Winter Workshop (University Of Wisconsin, Madison Wi, January 2012) 
+      * Midwest Winter Workshop (University Of Iowa, Iowa City Ia, January 2011)
+
 
 publications:
   - title: Random title of paper. An interesting one.
@@ -85,24 +146,24 @@ publications:
     conference: Some conference again, 2018
 
 projects:
-  - title: Cool Project 
+  - title: More than a README
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Platformization UnConference 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Indeed University  
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Data Games  
     link: #
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
 
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 

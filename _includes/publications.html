@@ -1,7 +1,7 @@
 {% assign publications = site.data.data.publications %}
 {% if publications %}
 <section class="publications">
-    <h2 class="title">Publications</h2>
+    <h2 class="title">Awards and Honors</h2>
     <div class="publication-items">
         {% for pub in publications%}
             <div class="publication-item">
@@ -9,7 +9,8 @@
                     <a href="{{pub.link}}">{{pub.title}}</a>
                 </div>
                 <div class="authors">{{pub.authors}}</div>
-                <div class="conference">{{pub.conference}}</div>   
+                <div class="conference">{{pub.conference}}</div>
+                <div class="details">{{pub.details | markdownify}}</div>   
             </div>
         {%endfor%}
     </div>
