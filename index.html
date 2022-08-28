@@ -2,10 +2,10 @@
 layout: default
 ---
 <div class="container">
-    <p>
-      {% include header.html %}
-    </p>
-    <p class="lead">{% include subtitle.html %}</p>
+  <p>
+    {% include header.html %}
+  </p>
+  <p class="lead">{% include subtitle.html %}</p>
   <div class="container-block">
     <div class="sidebar">
       {% include contact.html %}
@@ -13,11 +13,20 @@ layout: default
       {% include languages.html %}
       {% include skills.html %}
     </div>
-
     <div class="main">
-      {% include career-profile.html %}
-      {% include experience.html %}
-      {% include volunteering.html %}
+      <section>
+        {% include career-profile.html %}
+      </section>
+      <section>
+        {% include experience.html %}
+      </section>
+      <section>
+        {% include projects.html %}
+      </section>
+      <p style="page-break-before: always"></p>
+      <section>
+        {% include volunteering.html %}
+      </section>
     </div>
   </div>
 </div>
