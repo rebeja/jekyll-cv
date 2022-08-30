@@ -2,10 +2,7 @@
 layout: default
 ---
 <div class="container">
-  <p>
     {% include header.html %}
-  </p>
-  <p class="lead">{% include subtitle.html %}</p>
   <div class="container-block">
     <div class="sidebar">
       {% include contact.html %}
@@ -14,19 +11,27 @@ layout: default
       {% include skills.html %}
     </div>
     <div class="main">
-      <section>
         {% include career-profile.html %}
-      </section>
-      <section>
         {% include experience.html %}
-      </section>
-      <section>
         {% include projects.html %}
-      </section>
-      <p style="page-break-before: always"></p>
-      <section>
+        <p style="page-break-before: always"></p>
         {% include volunteering.html %}
-      </section>
     </div>
   </div>
 </div>
+<footer class="blog-footer">
+  <div class="details">
+    <p class="text-center"><a href="#">Back to top</a></p>
+    <p class="text-center"><small> &copy; 2022 Rebecca Robinson Chávez.</small></p>
+    <p class="text-center"><small>Powered by <a href="https://jekyllrb.com/docs//">Jekyll</a>, built using the <a href="https://github.com/stavrospanakakis/jekyll-cv">jekyll-cv</a> theme.</small></p>
+  </div>
+</br>
+</footer>
+
+
+
+
+
+
+
+

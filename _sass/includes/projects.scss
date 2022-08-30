@@ -2,12 +2,10 @@
     .title {
         @include header;
     }
-    .project {
-        .project-link {
-            @include body-text;
-        }
-        .details {
-            @include body-text;
-        }
+    .project-link {
+        @include body-text;
+    }
+    .details {
+        @include body-text;
     }
 }

@@ -1,4 +1,6 @@
 name: Rebecca Robinson Chávez
+support_dark_mode: true
+fork: true
 
 
 # Sidebar
@@ -54,9 +56,9 @@ profile: |
 experience: 
   - role: API Technical Writer II 
     time: 2021-Present
-    company: Indeed
+    company: Indeed 
     details: |
-      Worked on a team that migrated all of Indeed’s public API documentation to a custom built NodeJS web app. I now manage, edit, and publish all external API technical documentation on Indeed's [Developer Portal](https://developer.indeed.com/). *Responsibilities include*: Leading API documentation sprint planning with cross functional team; Partnering with product teams to assess documentation needs and deliver technical content solutions; Collaborating with a wide range of stakeholders to make recommendations and provide strategic direction on technical content projects; Identifying and proposing solutions for major improvements to existing or missing processes. 
+       Manage, edit, and publish all external API technical documentation on Indeed's [Developer Portal](https://developer.indeed.com/). *Responsibilities include*: Leading API documentation sprint planning with cross functional team; Partnering with product teams to assess documentation needs and deliver technical content solutions; Collaborating with a wide range of stakeholders to make recommendations and provide strategic direction on technical content projects; Identifying and proposing solutions for major improvements to existing or missing processes. 
   - role: Outreach Technical Writer
     time: 2019-2021
     company: Indeed
@@ -126,12 +128,12 @@ volunteering:
 
   - role: Workshops 
     details: |
-      * Faculty Reading And Discussion Group (St. Edward’s University, Austin TX, Fall 2015-Fall 2018) 
-      * Innovation Institute Summer Seminar Workshops (St. Edward’s University, Austin, TX, May 2016) 
-      * Rhetoric Society Of America Summer Institute (University Of Wisconsin, Madison WI, June 2015) 
-      * Rhetoric Society Of America Summer Institute University Of Kansas, Lawrence KS, June 2013) 
-      * Midwest Winter Workshop (University Of Wisconsin, Madison Wi, January 2012) 
-      * Midwest Winter Workshop (University Of Iowa, Iowa City Ia, January 2011)
+      * Faculty Reading And Discussion Group (St. Edward’s University, 2015-2018) 
+      * Innovation Institute Summer Seminar Workshops (St. Edward’s University, May 2016) 
+      * Rhetoric Society Of America Summer Institute (University Of Wisconsin, June 2015) 
+      * Rhetoric Society Of America Summer Institute University Of Kansas, June 2013) 
+      * Midwest Winter Workshop (University Of Wisconsin, January 2012) 
+      * Midwest Winter Workshop (University Of Iowa, January 2011)
 
 
 publications:
@@ -151,6 +153,10 @@ projects:
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
+  - title: Indeed Developer Portal
+    link: https://developer.indeed.com/ 
+    details: |
+      I was part of a team that migrated all of Indeed’s public API and technical documentation to a custom built NodeJS web app.
   - title: Platformization UnConference 
     link: #
     details: |
@@ -163,6 +169,11 @@ projects:
       tempor incididunt ut labore et dolore magna aliqua.
   - title: Data Games  
     link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Ignite OSCON 2019
+    link: https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76643.html
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua.
