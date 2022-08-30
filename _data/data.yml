@@ -149,32 +149,27 @@ publications:
 
 projects:
   - title: More than a README
-    link: #
+    link: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Led a spring Hackathon project that experimented with Backstage techdocs plugin functionality and produced a GitLab project template that enables Indeed product development teams to easily stand up static sites for documentation in their code repos. 
   - title: Indeed Developer Portal
     link: https://developer.indeed.com/ 
     details: |
-      I was part of a team that migrated all of Indeed’s public API and technical documentation to a custom built NodeJS web app.
+      Part of a team that migrated all of Indeed’s public API and technical documentation to a custom built NodeJS web app.
   - title: Platformization UnConference 
-    link: #
+    link: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Joined organization comittee that planned and facilitated an internal unconference at Indeed. 
   - title: Indeed University  
-    link: #
+    link: https://engineering.indeedblog.com/indeed-university/
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-  - title: Data Games  
-    link: #
+      Led effort to update and refresg the extensive Indeed University curriculum and provided technical writing support for first ever all-virtual program in 2020.  
+  - title: Data Games at Indeed. 
+    link: 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Led presenter support program for internal conference, worked primarily with Data Scientists and Data Engineers. 
   - title: Ignite OSCON 2019
     link: https://conferences.oreilly.com/oscon/oscon-or-2019/public/schedule/detail/76643.html
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+      Parntered with Indeed's Open Source Program Office to deliver Ignite speaker training and presentation coaching for employees. I also served as a reviewer on panel commitee with OSCON organizers that selected speakers for the sponsored event. 
 
